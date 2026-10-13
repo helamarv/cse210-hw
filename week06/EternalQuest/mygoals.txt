@@ -1,0 +1,5 @@
+400
+SimpleGoal:a,abc,50,True
+EternalGoal:s,c,25
+ChecklistGoal:gym,workout,200,3,3,125
+SimpleGoal:aa,aabbcc,75,False
